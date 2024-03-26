@@ -1,12 +1,19 @@
-# code-project-challenge
-#### Date, 2024/03/25
+# Project Name
+Week 1 Code Challenge
+# Project Description
+This repository contains a collection of projects built using JavaScripy and Node.js.
+Each program serves a specific purpose as shown in respective file.
 
-#### By ANGELO MUGURE
 
-## Table of Contents
-- [1. Speed Detector](#1-speed-Detector)
-- [2. Salary Calculator](#2-salary-calculator)
-- [3. Grade generator](#3-grade-generator)
+#### Date
+ 26/03/2024
+
+#### AUTHOR
+ANGELO PRINCE MUGURE
+
+
+# PROJECT SETUP
+Description This repositort contains a collection of programs built using JavaScript and Node.js. Each program serves a specific purpose as shown below:
 
 ## 1. Speed Checker
 
